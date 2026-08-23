@@ -101,7 +101,6 @@ An IoT and Machine Learning based system designed to detect forgotten items and 
 🌐 Full-Stack Development
 🤖 AI Agents
 ⚡ Power Automate
-🧠 Microsoft Copilot
 🔐 Cybersecurity
 🚀 Building Real-World Projects
 ```
@@ -118,7 +117,7 @@ I believe in learning by building, solving real problems, and continuously impro
 
 ## 🤝 Let's Connect
 
-**LinkedIn:** Coming Soon
+**LinkedIn:** https://www.linkedin.com/in/ajith-t-901326286/
 
 **GitHub:** `@ajith254t`
 
