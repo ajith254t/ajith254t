@@ -1,9 +1,9 @@
 
-# 🦇 AJITH T
+# AJITH T
 
 ### `Software Developer` • `AI Agent Developer` • `Secure-Stack Enthusiast`
 
-> **Build in the shadows. Secure in the light. 🦇**
+> **Build in the shadows. Secure in the light. **
 
 ---
 
@@ -83,14 +83,6 @@ An AI-powered digital livelihood platform connecting senior citizens and homemak
 An IoT and Machine Learning based system designed to detect forgotten items and provide smart alerts.
 
 **Python • IoT • Machine Learning • Computer Vision**
-
----
-
-## 📊 GitHub Activity
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ajith254t\&show_icons=true\&theme=dark\&hide_border=true\&rank_icon=github)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ajith254t\&layout=compact\&theme=dark\&hide_border=true)
 
 ---
 
