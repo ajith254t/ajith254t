@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=210&section=header&text=AJITH%20T&fontSize=64&fontColor=FF0000&fontAlignY=40&desc=Software%20Developer%20%E2%80%A2%20AI%20Agent%20Developer%20%E2%80%A2%20Secure-Stack%20Enthusiast&descAlignY=62&descSize=16&descColor=FF3B3B" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=3500&pause=900&color=FF0000&background=000000&center=true&vCenter=true&width=600&lines=Build+in+the+shadows.+Secure+in+the+light.; Turning+ideas+into+software%2C+one+project+at+a+time." alt="typing-svg" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=3500&pause=900&color=FF0000&background=000000&center=true&vCenter=true&width=600&lines=Build+in+the+shadows.+Secure+in+the+light.;" alt="typing-svg" />
 
 <br/>
 
