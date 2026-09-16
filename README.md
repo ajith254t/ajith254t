@@ -2,19 +2,19 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=210&section=header&text=AJITH%20T&fontSize=64&fontColor=FF0000&fontAlignY=40&desc=Software%20Developer%20%E2%80%A2%20AI%20Agent%20Developer%20%E2%80%A2%20Secure-Stack%20Enthusiast&descAlignY=62&descSize=16&descColor=FF3B3B" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=3500&pause=900&color=FF0000&background=000000&center=true&vCenter=true&width=600&lines=Build+in+the+shadows.+Secure+in+the+light.;Turning+ideas+into+software%2C+one+project+at+a+time." alt="typing-svg" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=3500&pause=900&color=FF0000&background=000000&center=true&vCenter=true&width=600&lines=Build+in+the+shadows.+Secure+in+the+light.; Turning+ideas+into+software%2C+one+project+at+a+time." alt="typing-svg" />
 
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ajith--t-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ajith-t-901326286/)
-[![GitHub](https://img.shields.io/badge/GitHub-ajith254t-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ajith254t)
+[![LeetCode](https://img.shields.io/badge/GitHub-ajith254t-181717?style=for-the-badge&logo=github&logoColor=white)](https://leetcode.com/u/C3rQAYqKA8/)
 ![Profile Views](https://komarev.com/ghpvc/?username=ajith254t&style=for-the-badge&color=ff0000&label=PROFILE+VIEWS)
 
 </div>
 
 <br/>
 
-## `01` — About Me
+##  About Me
 
 ```bash
 ajith@devstack:~$ whoami
@@ -49,7 +49,7 @@ ajith@devstack:~$ whoami
 
 <br/>
 
-## `02` — Tech Stack
+##  Tech Stack
 
 **Languages**
 
@@ -73,7 +73,7 @@ ajith@devstack:~$ whoami
 
 <br/>
 
-## `03` — Featured Projects
+## Featured Projects
 
 <table>
 <tr>
@@ -116,7 +116,7 @@ An IoT and Machine Learning based system designed to detect forgotten items and 
 
 <br/>
 
-## `04` — Current Focus
+## Current Focus
 
 ```yaml
 focus:
@@ -130,7 +130,7 @@ focus:
 
 <br/>
 
-## `05` — GitHub Stats
+##  GitHub Stats
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=ajith254t&show_icons=true&theme=github_dark_dimmed&hide_border=true&bg_color=000000&title_color=ff0000&icon_color=ff0000&text_color=c9d1d9" width="48%" />
@@ -143,7 +143,7 @@ focus:
 
 <br/>
 
-## `06` — Developer Philosophy
+## Developer Philosophy
 
 > *"It's not who I am underneath, but what I build that defines me."*
 
@@ -151,17 +151,16 @@ I believe in learning by building, solving real problems, and continuously impro
 
 <br/>
 
-## `07` — Let's Connect
+##  Let's Connect
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/-Ajith%20T-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ajith-t-901326286/)
-[![GitHub](https://img.shields.io/badge/-ajith254t-181717?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/ajith254t)
+[![Leetcode](https://img.shields.io/badge/-ajith254t-181717?style=for-the-badge&logo=GitHub&logoColor=white)](https://leetcode.com/u/C3rQAYqKA8/)
 
 <br/><br/>
 
 **BUILD • AUTOMATE • SECURE**
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=100&section=footer"/>
 
 </div>
