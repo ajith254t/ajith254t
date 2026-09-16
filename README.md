@@ -1,120 +1,108 @@
-
-# AJITH T
-
-### `Software Developer` • `AI Agent Developer` • `Secure-Stack Enthusiast`
-
-> **Build in the shadows. Secure in the light. **
-
----
-
-## 👨‍💻 About Me
-
-I'm a Computer Science Engineering student and software developer who enjoys building **full-stack applications, AI-powered solutions, automation workflows, and security-focused projects**.
-
-* ☕ Strong in **Java & SQL**
-* 🌐 Full-Stack Developer — **MERN**
-* 🤖 Building **AI Agents & AI-powered applications**
-* ⚡ Exploring **Power Automate & Microsoft Copilot**
-* 🔐 Interested in **Cybersecurity & Secure-Stack Development**
-* 🚀 Always learning and building new things
-
----
-
-## 🛠️ Tech Stack
-
-### 💻 Languages
-
-![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge\&logo=openjdk\&logoColor=F7DF1E)
-![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge\&logo=python\&logoColor=FFD43B)
-![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge\&logo=javascript\&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge\&logo=typescript\&logoColor=3178C6)
-![SQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge\&logo=mysql\&logoColor=4479A1)
-
-### 🌐 Full Stack
-
-![React](https://img.shields.io/badge/React-000000?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge\&logo=node.js\&logoColor=68A063)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge\&logo=express\&logoColor=FFFFFF)
-![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=for-the-badge\&logo=mongodb\&logoColor=47A248)
-![FastAPI](https://img.shields.io/badge/FastAPI-000000?style=for-the-badge\&logo=fastapi\&logoColor=00C7B7)
-
-### 🤖 AI & Automation
-
-![AI Agents](https://img.shields.io/badge/AI%20Agents-000000?style=for-the-badge\&logo=openai\&logoColor=FFFFFF)
-![Power Automate](https://img.shields.io/badge/Power%20Automate-000000?style=for-the-badge\&logo=powerautomate\&logoColor=0078D4)
-![Microsoft Copilot](https://img.shields.io/badge/Microsoft%20Copilot-000000?style=for-the-badge\&logo=microsoft\&logoColor=FFFFFF)
-
-### 🔐 Security & Tools
-
-![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge\&logo=git\&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge\&logo=github\&logoColor=FFFFFF)
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-000000?style=for-the-badge\&logo=hackthebox\&logoColor=9FEF00)
-
----
-
-## 🛡️ Featured Projects
-
-### 🦇 VULFI — Vulnerability Finding Platform
-
-A full-stack security assessment platform designed to identify common security risks across websites, devices and email domains.
-
-**React • Vite • Tailwind CSS • FastAPI • Python • Security**
-
----
-
-### 🤖 Alter Ego
-
-An immersive AI personality platform where users can create and interact with a persistent AI personality.
-
-**Next.js • TypeScript • Tailwind CSS • Groq • AI**
-
----
-
-### 🤝 SilverHands
-
-An AI-powered digital livelihood platform connecting senior citizens and homemakers with meaningful livelihood opportunities.
-
-**React • TypeScript • FastAPI • AI • Automation**
-
----
-
-### 🧠 Smart Reminder
-
-An IoT and Machine Learning based system designed to detect forgotten items and provide smart alerts.
-
-**Python • IoT • Machine Learning • Computer Vision**
-
----
-
-## 🎯 Current Focus
-
-```text
-☕ Java Development
-🌐 Full-Stack Development
-🤖 AI Agents
-⚡ Power Automate
-🔐 Cybersecurity
-🚀 Building Real-World Projects
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=210&section=header&text=AJITH%20T&fontSize=62&fontColor=00ff9d&animation=fadeIn&fontAlignY=36&desc=Software%20Developer%20%E2%80%A2%20AI%20Agent%20Developer%20%E2%80%A2%20Secure-Stack%20Enthusiast&descAlignY=56&descSize=17&descColor=8be9fd" width="100%"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3500&pause=900&color=00FF9D&center=true&vCenter=true&width=600&lines=Build+in+the+shadows.+Secure+in+the+light.;Turning+ideas+into+software%2C+one+project+at+a+time." alt="typing-svg" />
+<br/>
+![LinkedIn](https://img.shields.io/badge/LinkedIn-ajith--t-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-ajith254t-181717?style=for-the-badge&logo=github&logoColor=white)
+![Profile Views](https://komarev.com/ghpvc/?username=ajith254t&style=for-the-badge&color=00ff9d&label=PROFILE+VIEWS)
+</div>
+<br/>
+`01` — About Me
+```bash
+ajith@devstack:~$ whoami
 ```
-
----
-
-## 🦇 Developer Philosophy
-
-> **"It's not who I am underneath, but what I build that defines me."**
-
+> Computer Science Engineering student and software developer who enjoys building
+> full-stack applications, AI-powered solutions, automation workflows, and
+> security-focused projects.
+<table>
+<tr>
+<td width="50%" valign="top">
+🔧 What I work with
+Strong in Java & SQL
+Full-Stack Developer — MERN
+Building AI Agents & AI-powered apps
+Exploring Power Automate & Microsoft Copilot
+</td>
+<td width="50%" valign="top">
+🛡️ What drives me
+Interested in Cybersecurity & secure-stack dev
+Always learning & building new things
+Solving real problems > following trends
+Ship, iterate, secure, repeat
+</td>
+</tr>
+</table>
+<br/>
+`02` — Tech Stack
+Languages
+<p><img src="https://skillicons.dev/icons?i=java,python,js,ts,mysql&theme=dark" /></p>
+Full Stack
+<p><img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,fastapi&theme=dark" /></p>
+AI & Automation
+![AI Agents](https://img.shields.io/badge/AI_Agents-00FF9D?style=flat-square&logo=openai&logoColor=black)
+![Power Automate](https://img.shields.io/badge/Power_Automate-0066FF?style=flat-square&logo=microsoft&logoColor=white)
+![Copilot Studio](https://img.shields.io/badge/Microsoft_Copilot-8A2BE2?style=flat-square&logo=microsoft&logoColor=white)
+Security & Tools
+<p><img src="https://skillicons.dev/icons?i=git,github&theme=dark" /></p>
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-000000?style=flat-square&logo=hackthebox&logoColor=00FF9D)
+<br/>
+`03` — Featured Projects
+<table>
+<tr>
+<td width="50%" valign="top">
+🧬 VULFI — Vulnerability Finding Platform
+A full-stack security assessment platform designed to identify common security risks across websites, devices and email domains.
+`React` `Vite` `Tailwind CSS` `FastAPI` `Python` `Security`
+</td>
+<td width="50%" valign="top">
+🎭 Alter Ego
+An immersive AI personality platform where users can create and interact with a persistent AI personality.
+`Next.js` `TypeScript` `Tailwind CSS` `Groq` `AI`
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+🤝 SilverHands
+An AI-powered digital livelihood platform connecting senior citizens and homemakers with meaningful livelihood opportunities.
+`React` `TypeScript` `FastAPI` `AI` `Automation`
+</td>
+<td width="50%" valign="top">
+🔔 Smart Reminder
+An IoT and Machine Learning based system designed to detect forgotten items and provide smart alerts.
+`Python` `IoT` `Machine Learning` `Computer Vision`
+</td>
+</tr>
+</table>
+<br/>
+`04` — Current Focus
+```yaml
+focus:
+  - Java Development
+  - Full-Stack Development
+  - AI Agents
+  - Power Automate
+  - Cybersecurity
+  - Building Real-World Projects
+```
+<br/>
+`05` — GitHub Stats
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=ajith254t&show_icons=true&theme=github_dark_dimmed&hide_border=true&bg_color=0d1117&title_color=00ff9d&icon_color=00ff9d&text_color=c9d1d9" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ajith254t&theme=github-dark-blue&hide_border=true&background=0d1117&ring=00ff9d&fire=00ff9d&currStreakLabel=00ff9d" width="48%" />
+</div>
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajith254t&layout=compact&theme=github_dark_dimmed&hide_border=true&bg_color=0d1117&title_color=00ff9d&text_color=c9d1d9" width="45%" />
+</div>
+<br/>
+`06` — Developer Philosophy
+> *"It's not who I am underneath, but what I build that defines me."*
 I believe in learning by building, solving real problems, and continuously improving my skills.
-
----
-
-## 🤝 Let's Connect
-
-**LinkedIn:** https://www.linkedin.com/in/ajith-t-901326286/
-
-**GitHub:** `@ajith254t`
-
----
-
-### 🦇 BUILD • AUTOMATE • SECURE
-
-*Turning ideas into software, one project at a time.*
+<br/>
+`07` — Let's Connect
+<div align="center">
+![LinkedIn](https://img.shields.io/badge/-Ajith%20T-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white)
+![GitHub](https://img.shields.io/badge/-ajith254t-181717?style=for-the-badge&logo=GitHub&logoColor=white)
+<br/><br/>
+BUILD • AUTOMATE • SECURE
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
+</div>
