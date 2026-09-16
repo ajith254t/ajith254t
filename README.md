@@ -7,7 +7,7 @@
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ajith--t-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ajith-t-901326286/)
-[![LeetCode](https://img.shields.io/badge/GitHub-ajith254t-181717?style=for-the-badge&logo=github&logoColor=white)](https://leetcode.com/u/C3rQAYqKA8/)
+[![LeetCode](https://img.shields.io/badge/Leetcode-ajith254t-181717?style=for-the-badge&logo=github&logoColor=white)](https://leetcode.com/u/C3rQAYqKA8/)
 ![Profile Views](https://komarev.com/ghpvc/?username=ajith254t&style=for-the-badge&color=ff0000&label=PROFILE+VIEWS)
 
 </div>
